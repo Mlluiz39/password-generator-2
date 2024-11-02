@@ -3,7 +3,6 @@ import {
   View,
   Image,
   Text,
-  Button,
   Switch,
   Alert,
   TouchableOpacity,
