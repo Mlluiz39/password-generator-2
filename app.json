@@ -11,17 +11,29 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
+    "extra": {
+      "eas": {
+        "projectId": "fae9bb3c-f9d4-4e17-9800-c024f9b3f441"
+      }
     },
     "android": {
+      "package": "com.mlluiz43.passwordgenerator",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    }
+  },
+  "ios": {
+    "supportsTablet": true
+  },
+  "package": "com.mlluiz43.passwordgenerator",
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "fae9bb3c-f9d4-4e17-9800-c024f9b3f441"
     }
   }
 }
